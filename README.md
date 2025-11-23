@@ -41,7 +41,7 @@ Exemplo de requisição:
 
 ### Como Rodar o Projeto
 
-Clone o repositório:
+Clone o repositório: https://github.com/ryanxaxxxx/gs2_ia.git
 
 
 Instale as dependências:
