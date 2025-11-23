@@ -54,5 +54,6 @@ Acesse a documentação interativa em:
 http://127.0.0.1:8000/docs
 
 
-
+👨‍💻 Integrantes
+Ryan Fernando Lúcio da Silva - 555924/ Lucas Henrique de Souza Santos - 558241/ Mariana Roberti Neri - 556284
 
